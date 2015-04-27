@@ -8,6 +8,7 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-	<icon src="app-icon.png" />
+	<icon src="app-icon.png" width="512" height="512"/>
+	<splash src="app-icon.png" width="320" height="480" />
     <access origin="*" />
 </widget>
